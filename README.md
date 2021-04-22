@@ -1,65 +1,49 @@
-# markdown-cv
+# Title: Resume
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+---
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+# Esteban Villegas
+Urban Planner, Data Analyst, Excel Intermediate, UCR 2021 MPP Student, DIY Home Project Beginner.
 
-***
+  <a href="https:https://www.gosbcta.com/project/west-valley-connector-brt/">A little bit of the work I do</a>
+  </div>
 
-## Customization
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+## Professional Summary
+Public employee knowleadge in: research techniques, data collection/analysis, reporting preparation, grant writing, contract overseeing, and reviewing RFP's.
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+## California State Polytechnic University, Pomona
+Bachelor of Science: Public Relations/Marketing 
+GPA: 3.9
+`2008-2014`
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-adding your skills, jobs and education.
+## University of California, Riverside
+Master of Public Policy | Expected Graduation: June 2021
+GPA: 3.8
+`Sept 2019 - June 2021`
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+### Current Job: Omnitrans - Paratransit Data Analyst | May 2017 - current
+Compile data and organize reports for Omnitrans publications
+Faciliate RFP process. (project planning, drafting, distributing to networks, awarding)
+Manage excel reporting numbers and report when necessary.
+Acquire data from primary and secondary sources and maintain data systems.
+Direct, identift, analyze, and interprete trends or patterns in complex data sets.
+Prepare English to Spanish official Omnitrans documents
+Coordinate Omnitrans public hearings 
 
-## Distribution
+#### Awards and Certificates
+National Transit Institute certificate in Managing Community Mobility
+National Transit Institute certificate in Comprehensive ADA Paratransit Eligibility Course
+National Transit Institute certificate in Paratransit Management and Operations
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+Drafted letter for policy formulation and was adopted as official Omnitrans document
+Oversaw the expansion of the Customer Satisfaction Recognition program 
+Actively performed duties with the Customer Satisfaction team
 
-### I. Use Github Pages to publish it online
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+# Prononuns 
+He/Him
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
-
-### II. Build it locally and print a PDF
-
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+# Hello world
