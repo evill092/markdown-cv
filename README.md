@@ -1,4 +1,5 @@
-# Title: Resume
+# Title
+## Resume
 
 ---
 
